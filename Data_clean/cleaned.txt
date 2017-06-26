@@ -1,0 +1,72 @@
+Lekili - Introductory Calculus, Part I|Filtering And Prediction Of Hidden Markov Models
+Johnson - Cell And Molecular Biology|Computer Aided Visualization And Design
+Gmytrasiewicz - Topics In Ecology And Evolutionary Biology|Literary Communities|Computational Method For Biology|Fundamentals Of Computer Systems
+Sauerwald - The Postcolonial And The Postmodern|Topics In Information Retrieval And Web Search|Computer Vision|Talking With Computers|American Poetry Ii: Modernism|Pattern Recognition And Machine Learning|Computer Systems Security: Principles And Practice|Writing And Speaking Chinese I
+Wolak - Descartes' World|American Fiction And Mass Culture
+Lu - Innovation And Technology Management Ii|Models Of Computation|Biomaterials|Pattern Recognition And Machine Learning|Computational Fluid Dynamics|Writing And Speaking Chinese I|The Literary Scholar|Crossing The Consumer Chasm By Design|Temporalities
+Reddy - Reinventions Of Life: Aesthetics, Biopolitics, And The Avant-Gardes|Altered State|Quantum Mechanics
+Checkoway - Getting Emotional: Passionate Theories|Topics In Ecology And Evolutionary Biology|Computer Systems Security: Principles And Practice|Introduction To Combinatorial Optimization
+Fish - 3D Photography And Geometry Processing|The Foundation Of Living Systems|Introduction To Computation For The Humanities And Social Sciences|Introduction To Computer Graphics
+Brennan - Intermediate 3D Computer Animation|Astrophysics And Cosmology
+Sistla - Introduction To Power Engineering|Database Management Systems|Dynamics And Vibrations|Pompeii: Art, Architecture, And Archaeology In The Lost City|Molecular Genetics|Introduction To Computer Graphics|El Greco And Velazquez|Algorithmic Foundations Of Computational Biology
+Troy - Computer Aided Visualization And Design|The Design And Analysis Of Trading Agents|Introductory Compiler Construction
+Yu - Special Topics In Advanced Algorithms|Altered States|Applied Artificial Intelligence|Computers And Human Values
+Tafti - Managerial Decision Making|The Design And Analysis Of Trading Agents|Topics In Data Science|Recent Applications Of Probability And Statistics|Introduction To Scientific Computing|Topics In Game-Theoretic Artificial Intelligence|Advanced Programming For Digital Art And Literature
+Forbes - Introductory Biochemistry
+Foster - Mechanics Of Solids|Analytic Geometry And Calculus
+Sinapova - Introduction To Computational Geometry|The Claims Of Fiction
+Jin - Hilbert Spaces And Their Applications|Advanced Algorithms Seminar
+Reed - Thermodynamics|Introduction To Discrete Structures And Probability
+Cui - The Postcolonial And The Postmodern|Computational Theory Of Molecular Evolution
+Vinella - Topics In Computer Vision|Software System Design|Introduction To Combinatorial Optimization
+Cranch - 3D Photography And Geometry Processing
+Chudnovsky - Fracture Mechanics|Introduction To Computation For The Humanities And Social Sciences|Foundations Of Electromagnetism And Modern Physics|Topics In Grounded Language For Robotics
+Zuck - Statistical Inference Ii|Basic Physics
+Gillet - Data-Driven Vision And Graphics|Algebraic Geometry|Analytic Geometry And Calculus|Pompeii: Art, Architecture, And Archaeology In The Lost City|Quantum Mechanics
+Westland - Probabilistic Graphical Models|Victorian Inequality|Melville, Conrad, And The Sea|Narrative And Immersion|Projects In Engineering Design|Introductory Calculus, Part Ii
+Ziebart - Machine Learning Reading Group|Introduction To Number Theory
+Furman - Probabilistic Graphical Models|Distributed Computing Through Combinatorial Topology|Probabilistic Methods In Computer Science|Art After India
+Theys - Principles Of Ecology|Introduction To Algorithms And Data Structures|Virtual Citizens Or Subjects? The Global Battle Over Governing Your Internet|Cinematic Coding And Narrativity|Inventing The Past: Amulets, Heirlooms, Monuments, Landscapes|Foundations Of Electromagnetism And Modern Physics|Distributed Computing Through Combinatorial Topology
+Bassiri - Principles Of Ecology|Heat And Mass Transfer
+Taylor - Biophysical And Bioinorganic Chemistry|The Aesthetics Of Color: History, Theory, Critique
+Gallik - Molecular Genetics|Introduction To Computer Graphics
+Ansari - Foundations Of Electromagnetism And Modern Physics|Structural Analysis|American Fiction And Mass Culture
+Eugenio - The United States Metropolis|Computational Physics|Fracture Mechanics
+Rao - Collections And Visual Knowledge In Early Modern Europe|Independent Study In 2D Game Engines|Combinatorial Topology|Touring The Empire: Travel Literature And The Idea Of America
+Shonfeld - Heat And Mass Transfer|Computer Aided Visualization And Design|Medical Bioinformatics
+Lillis - Coding The Matrix: Linear Algebra Through Computer Science Application|Parallel And Distributed Programming|Introduction To Computation For The Humanities And Social Sciences|Educational Software Seminar|Advanced Programming For Digital Art And Literature
+Boy - Hilbert Spaces And Their Applications|Introduction To Filmmaking: Time And Form|Narrative And Immersion
+Soheili - Shakespeare|Biophysical And Bioinorganic Chemistry
+Marai - 2D Game Engines|Temporalities
+Jones - Partial Differential Equations|Building Intelligent Robots|The Literary Scholar|Filtering And Prediction Of Hidden Markov Models
+Kshemkalyani - Parallel Computation: Models, Algorithms, Limits|Filtering And Prediction Of Hidden Markov Models|Introductory Calculus, Part I
+Sloan - Introduction To Computational Linguistics
+Dasgupta - Parallel Computation: Model, Algorithms, Limits|Cultures And Countercultures: The American Novel After World War Ii
+Valbonesi - Computer Vision
+Eriksson - Introduction To Computation For The Humanities And Social Sciences|Computer Graphics Lab
+Walden - Topics In Ecology And Evolutionary Biology|Back To The Future: Nostalgia And Futurity In Contemporary Scifi Tv And Telefantasy|Special Topic In Advanced Algorithms|Environmental History|Introduction To Systems Programming|Topics In 3D Game Engine Development|Human Factors And User Interface Design|Hilbert Spaces And Their Applications|Interdisciplinary Scientific Visualization
+Bell - Software Engineering|Photo-Lab: The Visual Performance Of Rights|Art After India
+Bailey - Introduction To Science And Society: Theories And Controversies|Operating Systems
+Metlushko - Women'S Voices In Medieval Literature|Stem Cell Engineering|Mathematical Statistics|Melville, Conrad, And The Sea
+Wolfson - Data-Driven Vision And Graphics|Database Management Systems
+Archias - Collections And Visual Knowledge In Early Modern Europe|Introduction To Modernism: Past, Future, Exile, Home
+Vamanan - Data-Driven Vision And Graphics|Complex Function Theory|Dynamics And Vibrations
+Adiutori - American Fiction And Mass Culture
+Savar - Fieldwork In The Urban Community|Computational Topology|Intellectual Life And Culture In The Post-Western World
+Siber - Reading And Research|3D Photography|Cell And Molecular Biology
+Hogan - Operations Research: Probabilistic Models|Computational Theory Of Molecular Evolution|Interdisciplinary Scientific Visualization
+Mojab - Introduction To Power Engineering|Individual Independent Study
+Solworth - Mechanics Of Solids|Nineteenth-Century Architecture|Introduction To Computation For The Humanities And Social Sciences
+Velebit - Transport And Biotransport Processes|Reinventions Of Life: Aesthetics, Biopolitics, And The Avant-Gardes|Autonomous Agents And Computational Market Design|Advanced Programming For Digital Art And Literature
+Clarno - Chemical Process Design|Introduction To Computation For The Humanities And Social Sciences
+Dunn - Introduction To Architectural Design
+Lyons - Cultures And Countercultures: The American Novel After World War Ii|Human-Computer Interaction Seminar|Writing And Speaking German I|Introduction To Scientific Computing|Reinventions Of Life: Aesthetics, Biopolitics, And The Avant-Gardes|Internet And Web Algorithms
+Caliskan - Electrical Circuits And Signals|Analytic Geometry And Calculus|Melville, Conrad, And The Sea|Statistical Mechanics
+Bergerwolf - Recent Applications Of Probability And Statistics|Algorithms For Big Data|Writing And Speaking Chinese I|Biomaterials|Advanced Probabilistic Methods In Computer Science|Introduction To Filmmaking: Time And Form|Topics In Information Retrieval And Web Search|Architecture Of The House Through Space And Time|Building A Web Application|Computational Method For Biology
+Hummel - Transport And Biotransport Processes|Introduction To Algorithms And Data Structures|Introductory Calculus, Part Ii|Introductory Compiler Construction
+Dai - Introductory Calculus, Part Ii
+Krall - Nature And Law In American Literature|Nineteenth-Century British Novel|The Postcolonial And The Postmodern
+Kanich - Computer Networks|Nineteenth-Century British Novel|Accelerated Introduction To Computer Science
+Fink - The Korean War In Color|The Public Intellectual
+Kenyon - Human Factors And User Interface Design
+Ozevin - Transport And Biotransport Processes|Honors Linear Algebra|Introduction To Scientific Computing And Problem Solving|Fundamentals Of Computer Systems

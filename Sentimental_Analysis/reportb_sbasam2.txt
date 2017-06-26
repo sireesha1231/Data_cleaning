@@ -1,0 +1,80 @@
+Determine the sentiment of each tweet:-
+
+Created a sentiment dictionary. Split lines in the sentiment_file by tab as it is a tab-delimited file. Set the first index of the line as the phrase and the second index as the score. Strip the score value of any white spaces. Add the phrase and floating values of the score into the sentiment dictionary. Initially the score is set to 0 and then incremented later on. Convert all text to lower case for ease. Split the phrase into words and check for the sentiment score of each word and add it to the overall score of the phrase to get text_score. Print the phrase and its score next to it. 
+
+Results:-
+
+TOP 10 Tweets:-
+
+11.0 : Hi @Harry_Styles! I hope you're having a lovely day. You deserve all the love &amp; happiness. Mind following me? I love you &amp; take care!?79,685
+8.0 : Wow Blake Shelton u are a funny cowboy
+7.0 : I need God Jesus the Pope to bless me with greatest glo'up of all time ?
+6.0 : RT @RickyPDillon: @ShimmerDillon happy birthday!! Love you ??
+6.0 : RT @Gimmie_neck: naturally funny because my whole life is a joke
+5.0 : I just creeped on Kyle Massey's Instagram for a solid 10 minutes lol
+5.0 : RT @NewHopeLocks: Free @NewHopeBlake
+~His family is goals!?~
+RT if you're saving it!
+Like if you like it ?
+Be honest! ??
+~ Alba ? https://t?
+5.0 : @OSullivanDenise Denise a huge welcome to Houston and future success with the Dash hopefully......... I shall be at most home games ...
+4.0 : @_masterdebaters Thanks for following! You can help grow your SoundCloud audience with these 7 tips I made --&gt; https://t.co/pjSi57SZra
+4.0 : Taxes From A To Z (2016): E Is For Effective Tax Rate.: Taxes from A to Z (2016): E is for Effective T... https://t.co/Ihq5FMR6GS @Forbes
+
+Bottom 10 Tweets:-
+
+-8.0 : "Bet you don't have 2k in ur bank account rn, bitch I could buy your life" @cheriemadeleine slaying bitches like helllll ??
+-8.0 : Two US citizens killed in Istanbul suicide blast: WASHINGTON: Two US citizens were among those killed i... https://t.co/gASLxMokZh #JDT01
+-6.0 : guys will literally make u crazy and complain that you?re crazy
+-5.0 : RT @Justnishaaaa_: I just hate the fact that I wasted time on us , time I'll never get back , and time that could have been invested into s?
+-5.0 : Lol wtf you think the most random shit ???? https://t.co/DKOPAFaIgU
+-4.0 : RT @NyJhaiB: FratBoyz Basement Party
+#Operation Nasty
+@iWearExpress
+@NyJhaiB 
+{Cops Will Be There For Parking Reasons????}
+NO SHUTDOWN
+#NCA?
+-4.0 : RT @1poeticdrugs: A bad attitude can ruin a pretty face
+-4.0 : RT @AmberLynn_R: bored &amp; annoyed
+-4.0 : Feel fucking terrible... Got a tummy virus ??
+-4.0 : This is sad and pathetic ??? https://t.co/rIUtENOkp7
+
+
+Happiest Breaking Bad Actor:-
+
+Results:-
+
+1.33 : mrbobodenkirk
+1.12 : quiethandfilms
+1.02 : RjMitte
+0.9 : Krystenritter
+0.8 : betsy_brandt
+0.78 : aaronpaul_8
+0.75 : deanjnorris
+0.71 : BryanCranston
+0.59 : CharlesEbaker
+0.33 : DanielMoncada80
+0.17 : LuisMoncada77
+-0.09 : mattjonesisdead
+
+Happiest State:-
+
+Results:-
+
+Happiest States:-
+SD : 4.0
+TN : 3.0
+IA : 3.0
+MI : 3.0
+OK : 3.0
+
+Unhappiest States:-
+MD : -0.2
+CA : -0.25
+NJ : -0.33
+NC : -1.0
+SC : -1.0
+
+
